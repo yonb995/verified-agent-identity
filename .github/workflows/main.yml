@@ -38,4 +38,4 @@ jobs:
 
       - name: Step 3 - Link Human to Agent
         run:
-                node scripts/manualLinkHumanToAgent.js
+                node scripts/manualLinkHumanToAgent.js ayam bangke
