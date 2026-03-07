@@ -1,4 +1,4 @@
-name: Verify Human Identity
+name: Ayam
 
 on:
   workflow_dispatch:
@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Bangke ayam
         uses: actions/checkout@v3
 
       - name: Setup Node.js
